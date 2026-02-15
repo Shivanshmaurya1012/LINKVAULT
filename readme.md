@@ -10,7 +10,7 @@ Setting this up on your own machine is pretty straightforward:
 
 1.  **Clone the repo**
     Open your terminal and run:
-    `git clone https://github.com/yourusername/linkvault.git`
+    `git clone https://github.com/Shivanshmaurya1012/LINKVAULT`
 
 2.  **Install Backend dependencies**
     Go into the backend folder and grab the packages:
